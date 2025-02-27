@@ -9,6 +9,9 @@
 
 ## How to run the programs
 
+> [!NOTE]
+> Make sure you have Java installed on your system. If not, you can download it from [here](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+
 1. Clone the repository
 ```bash
 git clone https://github.com/chethanyadav456/Learn_Java.git
